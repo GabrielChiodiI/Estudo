@@ -1,0 +1,3 @@
+Exercício 6.
+Escreva um programa para converter Fahrenheit em Celsius e vice-versa.
+(Tf=9/5*Tc+32)

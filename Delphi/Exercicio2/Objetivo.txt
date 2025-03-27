@@ -1,0 +1,4 @@
+Exercício 2.
+Crie um form que contém um rótulo, uma caixa de texto e um botão. Um
+pressionamento de botão move o texto da caixa de texto para o rótulo e limpa
+a entrada da caixa de texto.

@@ -1,0 +1,3 @@
+Exercício 3.
+“Semáforo”: Crie um form que contém três rótulos e três botões. Cada botão
+deve habilitar um rótulo apropriado e desabilitar os outros rótulos.

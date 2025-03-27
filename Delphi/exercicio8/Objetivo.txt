@@ -1,0 +1,3 @@
+Exercício 8.
+Dado um número real, mostre suas partes inteiras e fracionárias
+separadamente.

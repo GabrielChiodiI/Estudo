@@ -1,0 +1,3 @@
+Exercício 5.
+Usando duas caixas de texto, um rótulo e quatro botões, crie uma
+calculadora para quatro operações aritméticas básicas.

@@ -1,0 +1,6 @@
+Exercício 4.
+Crie um form que contém um rótulo e quatro grupos de botões. Cada grupo
+contém três botões. O primeiro grupo (três botões) altera a cor do plano de
+fundo do rótulo. O segundo grupo (três botões) altera a cor da fonte do rótulo.
+O terceiro grupo (três botões) altera o tamanho da fonte do rótulo. E o grupo
+de botões final (três botões) muda o nome da família da fonte do rótulo.
