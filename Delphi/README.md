@@ -5,7 +5,7 @@ Os exercícios acima estão presentes no livro “Programação em Delphi para i
 
 <p align="justify">
 O livro possui um conteúdo bem didático, que faz uma boa introdução a programação em Delphi. Apesar de o autor recomendar o livro para iniciantes, a leitura será mais fluida se o leitor já tiver fundamentos básicos de lógica de programação estruturada e orientação à objetos.
-O conteúdo do livro está bem atualizado com relação aos exemplos de código e de interface apresentados. Tudo que é apresentado no livro, está disponível na IDE.
+O conteúdo do livro está bem atualizado com relação aos exemplos de código e de interface apresentados. Tudo que é apresentado no livro, está disponível na IDE em sua versão gratuita "Community Ediition".
 <p align="justify">
 Toda a programação básica da linguagem é apresentada, incluindo a declaração de variáveis, constantes, os diversos tipos de variáveis, o trabalho com strings, operadores matemáticos, relacionais e lógicos, estrutura de decisões e repetições. O livro também aborda o uso de matrizes, chamadas de funções e procedimentos, manipulação de arquivos. No fim, há ainda uma breve demonstração de como trabalhar com banco de dados. 
 <p align="justify">
