@@ -1,0 +1,4 @@
+Exercício 12.
+Calcule a altura da árvore dada a distância até a árvore e seu ângulo de visão.
+O resultado deve ser exibido da seguinte forma:
+A altura da árvore é igual a 2 m e 87 cm

@@ -1,0 +1,3 @@
+Exercício 14.
+Dado um inteiro de três dígitos, decida se ele é um palíndromo, isto é, se
+ele é lido da esquerda para a direita e da direita para a esquerda.

@@ -1,0 +1,3 @@
+Exercício 11.
+O triângulo é especificado pelas coordenadas de seus vértices. Calcule e
+exiba o perímetro e a área do triângulo.

@@ -1,0 +1,5 @@
+Exercício 13.
+Dois inteiros m e n são inseridos pelo usuário.
+Se n for divisível por m, o resultado da divisão de m por n deverá ser exibido.
+Caso contrário, o programa deve exibir a mensagem “n cannot be divided by
+m”.

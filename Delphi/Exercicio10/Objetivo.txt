@@ -1,0 +1,3 @@
+Exercício 10.
+Calcule e exiba a soma e o produto de três números inseridos usando o
+teclado.

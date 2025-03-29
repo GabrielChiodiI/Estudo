@@ -1,0 +1,4 @@
+Exercício 9.
+Supondo que a Terra é uma esfera ideal com o raio R=6350 km, escreva um
+programa para calcular a distância para a linha do horizonte do ponto de uma
+determinada altura a partir da superfície da Terra.
