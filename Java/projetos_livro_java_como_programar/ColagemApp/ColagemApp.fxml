@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="666.0" prefWidth="397.0" xmlns="http://javafx.com/javafx/26" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label text="Cristo Redentor" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="https://cdn.noticiabrasil.net.br/img/1230/79/12307984_0:0:3077:2048_600x0_80_0_1_556839629f31b61b842327a8aed5dfd7.jpg" />
+         </image>
+      </ImageView>
+      <Label text="Torre Eiffel" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="https://trueexperience.com.br/wp-content/uploads/2017/01/torre-eiffel.jpg" />
+         </image>
+      </ImageView>
+      <Label text="Stonehange" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="https://vivendoviajando.com.br/wp-content/uploads/2014/12/Stonehenge.jpg" />
+         </image>
+      </ImageView>
+      <Label text="Piramides" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="https://vivendoviajando.com.br/wp-content/uploads/2014/12/Pir%C3%A2mides-de-Giza.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</VBox>
